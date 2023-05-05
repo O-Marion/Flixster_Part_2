@@ -23,7 +23,8 @@ The following **required** functionality is completed:
 Here's a walkthrough of implemented user stories:
 ![Kapture 2023-05-05 at 19 08 31](https://user-images.githubusercontent.com/93610563/236583106-00b61e95-b882-4b68-9824-c568ae914c3b.gif)
 
-
+GIF created with ...  
+[Kap](https://getkap.co/) for macOS
 
 ## Notes
 
